@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/awesome_slider/static/js/app.f1fc437a.chunk.js",
+    "app.js.map": "/awesome_slider/static/js/app.f1fc437a.chunk.js.map",
+    "runtime~app.js": "/awesome_slider/static/js/runtime~app.65d07fdc.js",
+    "runtime~app.js.map": "/awesome_slider/static/js/runtime~app.65d07fdc.js.map",
+    "static/js/2.539cdbf3.chunk.js": "/awesome_slider/static/js/2.539cdbf3.chunk.js",
+    "static/js/2.539cdbf3.chunk.js.map": "/awesome_slider/static/js/2.539cdbf3.chunk.js.map",
+    "favicon-16.png": "/awesome_slider/favicon-16.png",
+    "favicon-32.png": "/awesome_slider/favicon-32.png",
+    "favicon.ico": "/awesome_slider/favicon.ico",
+    "index.html": "/awesome_slider/index.html",
+    "manifest.json": "/awesome_slider/manifest.json",
+    "serve.json": "/awesome_slider/serve.json",
+    "static/js/2.539cdbf3.chunk.js.LICENSE.txt": "/awesome_slider/static/js/2.539cdbf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.65d07fdc.js",
+    "static/js/2.539cdbf3.chunk.js",
+    "static/js/app.f1fc437a.chunk.js"
+  ]
+}
